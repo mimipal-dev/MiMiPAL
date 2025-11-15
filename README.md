@@ -5,7 +5,7 @@ November 15, 2025
 
 Dear friends,
 
-Thank you for your interest and visit to my experimental code repository. I have been tinkering with Arduino, C++ and various development platforms for about 12 years. The code posted here is a result of many thousands of hours experimenting, developing and improving a single piece of code to easily configure and manage the ESP8266 family of boards for the purpose of quickly creating many types of projects.
+Thank you for your interest and visit to my experimental code repository. I have been tinkering with Arduino, C++ and various development platforms for about 12 years. The code posted here is a result of many thousands of hours experimenting, developing and improving a single piece of code to easily configure and manage the ESP8266 family of boards for the purpose of quickly creating many types of projects. Before downloading any files from this repository, take a minute to read to the end of this introduction.
 
 Ownership of the code is the solely property of the author.
 
