@@ -9,7 +9,7 @@ Thank you for your interest and visit to my experimental code repository. I have
 
 Ownership of the code is the solely property of the author.
 
-Use of the firmware ("product") on this repository is not free and permission to download and use must be sought from the author.
+Use of the firmware ("product") on this repository is not free and permission to download and use must be granted.
 
 Development support for this product is sought only through generous user donations.
 
